@@ -1,0 +1,1 @@
+This project is to construct a website for my portfolio. There will be an About me section, Projects section, and a Contact section.
