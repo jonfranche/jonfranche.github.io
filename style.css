@@ -36,7 +36,7 @@ nav li {
     padding: 10px;
 }
 
-nav a:link, nav a:visited{
+nav a:link, nav a:visited {
     color: white;
     text-decoration: none;
 }
